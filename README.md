@@ -1,1 +1,1 @@
-# Gruppe23_SvelteConversion
+# Converting my Group Project Exam into Svelte
